@@ -1,0 +1,312 @@
+{
+  "bills": [
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Message on Senate action sent to the House."
+      },
+      "number": "958",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Maximizing Outcomes through Better Investments in Lifesaving Equipment for (MOBILE) Health Care Act",
+      "type": "S",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T04:25:56Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/958?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Message on Senate action sent to the House."
+      },
+      "number": "4791",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to amend section 301 of title 44, United States Code, to establish a term for the appointment of the Director of the Government Publishing Office.",
+      "type": "S",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T04:25:46Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4791?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Message on Senate action sent to the House."
+      },
+      "number": "3662",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Preventing PFAS Runoff at Airports Act",
+      "type": "S",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T04:25:34Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/3662?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Message on Senate action sent to the House."
+      },
+      "number": "1198",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "Solid Start Act of 2021",
+      "type": "S",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:01:15Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/1198?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Message on Senate action sent to the House."
+      },
+      "number": "8656",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "To designate the clinic of the Department of Veterans Affairs in Mishawaka, Indiana, as the \"Jackie Walorski VA Clinic\".",
+      "type": "HR",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:13:55Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/8656?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Message on Senate action sent to the House."
+      },
+      "number": "5754",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Patient Advocate Tracker Act",
+      "type": "HR",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T13:43:37Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/5754?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "4813",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to streamline the application process for employers seeking H-2A agricultural workers, and for other purposes.",
+      "type": "S",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:13:57Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4813?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Referred to the Committee on Armed Services. (text: CR S4517-4518)"
+      },
+      "number": "756",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution commemorating the 75th anniversary of the establishment of the Department of the Air Force and celebrating the United States Air Force for 75 years of serving and defending the United States.",
+      "type": "SRES",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:13:57Z",
+      "url": "https://api.congress.gov/v3/bill/117/sres/756?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Referred to the Committee on the Judiciary. (text: CR S4516-4517)"
+      },
+      "number": "755",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution recognizing September 11, 2022, as a \"National Day of Service and Remembrance\".",
+      "type": "SRES",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:13:58Z",
+      "url": "https://api.congress.gov/v3/bill/117/sres/755?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "4812",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to amend chapter 44 of title 18, United States Code, to restrict the ability of a person whose Federal license to import, manufacture, or deal in firearms has been revoked, whose application to renew such a license has been denied, or who has received a license revocation or renewal denial notice, to transfer business inventory firearms, and for other purposes.",
+      "type": "S",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:13:59Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4812?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Referred to the Committee on the Judiciary. (text: CR S4516)"
+      },
+      "number": "754",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A resolution designating November 13, 2022, as \"National Warrior Call Day\" in recognition of the importance of connecting warriors in the United States to support structures necessary to transition from the battlefield.",
+      "type": "SRES",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:13:57Z",
+      "url": "https://api.congress.gov/v3/bill/117/sres/754?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Read twice and referred to the Committee on Foreign Relations."
+      },
+      "number": "4811",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to establish a comprehensive, long-term United States strategy and policy for the Pacific Islands, and for other purposes.",
+      "type": "S",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T04:16:12Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4811?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "4810",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to establish a program of workforce development as an alternative to college for all, and for other purposes.",
+      "type": "S",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T04:16:12Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4810?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+      },
+      "number": "4809",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to strengthen the requirements relating to advance electronic information for cargo, and for other purposes.",
+      "type": "S",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:13:57Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4809?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 480."
+      },
+      "number": "4808",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "An original bill to amend the Internal Revenue Code of 1986 to reform retirement provisions, and for other purposes.",
+      "type": "S",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T04:16:12Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4808?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+      },
+      "number": "4807",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to amend the Wild and Scenic Rivers Act to designate the Nulhegan River and Paul Stream in the State of Vermont for potential addition to the National Wild and Scenic River System, and for other purposes.",
+      "type": "S",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:13:57Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4807?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Read twice and referred to the Committee on Armed Services. (text: CR S4515-4516)"
+      },
+      "number": "4805",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to provide for emergency acquisition authority in the event of armed attack against a United States ally or partner by a foreign adversary of the United States.",
+      "type": "S",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T13:43:38Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4805?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "4804",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to provide for civil monetary penalties for violations of mental health parity requirements.",
+      "type": "S",
+      "updateDate": "2022-09-10",
+      "updateDateIncludingText": "2022-09-10T03:13:56Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4804?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Read twice and referred to the Committee on Armed Services. (text: CR S4516)"
+      },
+      "number": "4806",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "A bill to authorize the Secretary of Defense to use amounts available to the Department of Defense for operation and maintenance to remove munitions and explosives of concern in Guam, and for other purposes.",
+      "type": "S",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T13:43:38Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/4806?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-09-08",
+        "text": "Committee on Banking, Housing, and Urban Affairs. Hearings held."
+      },
+      "number": "910",
+      "originChamber": "Senate",
+      "originChamberCode": "S",
+      "title": "SAFE Banking Act of 2021",
+      "type": "S",
+      "updateDate": "2022-09-09",
+      "updateDateIncludingText": "2022-09-09T04:21:03Z",
+      "url": "https://api.congress.gov/v3/bill/117/s/910?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 398182,
+    "next": "https://api.data.gov/congress/v3/bill?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

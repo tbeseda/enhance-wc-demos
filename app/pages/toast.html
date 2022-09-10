@@ -1,0 +1,37 @@
+<style>
+  main {
+    max-width: 36rem;
+    margin: 0 auto;
+  }
+
+  code {
+    font-family: Menlo, Monaco, Consolas, monospace;
+    color: var(--muted)
+  }
+
+</style>
+
+<wc-toast position="bottom-center"></wc-toast>
+
+<main class="demo font-sans pt4">
+  <my-button class="mb2">Toast!</my-button>
+
+  <p class="leading2 mb1">
+    👆 This is a custom element, <code>&ltmy-button&gt</code>, that uses
+    <a href="https://github.com/vanillawc/wc-marquee">an external library, "toast", to trigger an
+    alert with the accompanying <code>&ltwc-toast&gt</code></a> element (hidden).
+  </p>
+
+  <p class="leading2 mb1">
+    These custom elements work together 🎉
+  </p>
+
+  <p class="leading2 mb1">
+    <code>wc-toast</code> is imported from esm.sh, but it could be installed as an npm dependency and bundled with
+    Enhance's <code>@bundles</code> settings.
+  </p>
+
+  <p class="leading2">
+    <a href="/">Home</a>
+  </p>
+</main>
