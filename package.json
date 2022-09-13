@@ -3,7 +3,9 @@
     "start": "npx sandbox"
   },
   "devDependencies": {
-    "@architect/sandbox": "latest"
+    "@architect/sandbox": "latest",
+    "@enhance/types": "^0.1.0",
+    "wc-toast": "^1.2.7"
   },
   "dependencies": {
     "@enhance/arc-plugin-enhance": "latest"

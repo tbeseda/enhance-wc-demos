@@ -1,5 +1,8 @@
 import fs from 'node:fs'
 
+/**
+ * @type {import('@enhance/types').EnhanceApiFn}
+ */
 export async function get(){
   const bills = JSON.parse(
     fs.readFileSync(

@@ -1,4 +1,7 @@
-export default function MyButton({html}){
+/**
+ * @type {import('@enhance/types').EnhanceElemFn}
+ */
+export default function MyButton({ html }){
   return html`
     <style>
       :host {
@@ -11,12 +14,13 @@ export default function MyButton({html}){
         border-radius: 0.5rem;
       }
     </style>
+
     <button>
       <slot></slot>
     </button>
 
     <script type="module">
-      import { toast } from 'https://esm.sh/wc-toast@1.2.7'
+      import { toast } from '/_static/bundles/toast.mjs'
 
       class MyButton extends HTMLElement {
         constructor() {

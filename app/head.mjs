@@ -1,3 +1,6 @@
+/**
+ * @type {import('@enhance/types').EnhanceHeadFn}
+ */
 export default function Head(){
   return /*html*/`
     <!DOCTYPE html>
